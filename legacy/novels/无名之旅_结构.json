@@ -1,0 +1,100 @@
+{
+  "title": "无名之旅",
+  "author": "AI Storyteller",
+  "genre": "adventure",
+  "word_count": 9599,
+  "setting": {
+    "era": "现代",
+    "tech_level": "工业革命",
+    "goal": "自我救赎"
+  },
+  "plot_summary": "故事始于一场意外事件打破了平静的生活，发生在海盗船。 高潮部分，最终对决在命运之地展开，在火山口展开。 最终，世界恢复了和平，但一切已不同往昔，为故事画上句点。",
+  "characters": [
+    {
+      "name": "星痕",
+      "role": "protagonist",
+      "traits": [
+        "冷静",
+        "忠诚",
+        "严肃"
+      ],
+      "motivation": "获得自由",
+      "background": "背负诅咒的战士",
+      "current_emotion": "惊讶"
+    },
+    {
+      "name": "暗影之王",
+      "role": "antagonist",
+      "traits": [
+        "忠诚",
+        "严肃",
+        "务实"
+      ],
+      "motivation": "找到真相",
+      "background": "身怀绝技的隐士",
+      "current_emotion": "厌恶"
+    },
+    {
+      "name": "老杰克",
+      "role": "supporting",
+      "traits": [
+        "理想主义",
+        "悲观",
+        "乐观"
+      ],
+      "motivation": "实现梦想",
+      "background": "出身贫寒但志向远大",
+      "current_emotion": "希望"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "第1章 黎明前的黑暗",
+      "summary": "本章包含6个场景，从雪山之巅到海盗船，主要围绕盟友的背叛让主角陷入危机展开。",
+      "scene_count": 6,
+      "word_count": 1082
+    },
+    {
+      "title": "第2章 命运的交汇点",
+      "summary": "本章包含4个场景，从海盗船到海底遗迹，主要围绕一场意外事件打破了平静的生活展开。",
+      "scene_count": 4,
+      "word_count": 775
+    },
+    {
+      "title": "第3章 黎明前的黑暗",
+      "summary": "本章包含5个场景，从沙漠绿洲到海底遗迹，主要围绕主角开始追寻真相，但遭遇重重阻碍展开。",
+      "scene_count": 5,
+      "word_count": 1092
+    },
+    {
+      "title": "第4章 暗流涌动",
+      "summary": "本章包含7个场景，从雪山之巅到海盗船，主要围绕世界恢复了和平，但一切已不同往昔展开。",
+      "scene_count": 7,
+      "word_count": 1281
+    },
+    {
+      "title": "第5章 真相的碎片",
+      "summary": "本章包含7个场景，从火山口到雪山之巅，主要围绕最终对决在命运之地展开展开。",
+      "scene_count": 7,
+      "word_count": 1436
+    },
+    {
+      "title": "第6章 黎明前的黑暗",
+      "summary": "本章包含8个场景，从雪山之巅到海盗船，主要围绕盟友的背叛让主角陷入危机展开。",
+      "scene_count": 8,
+      "word_count": 1688
+    },
+    {
+      "title": "第7章 黎明前的黑暗",
+      "summary": "本章包含4个场景，从雪山之巅到海盗船，主要围绕世界恢复了和平，但一切已不同往昔展开。",
+      "scene_count": 4,
+      "word_count": 964
+    },
+    {
+      "title": "第8章 真相的碎片",
+      "summary": "本章包含7个场景，从雪山之巅到沙漠绿洲，主要围绕世界恢复了和平，但一切已不同往昔展开。",
+      "scene_count": 7,
+      "word_count": 1281
+    }
+  ]
+}

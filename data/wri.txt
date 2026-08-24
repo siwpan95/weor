@@ -1,0 +1,63 @@
+#characters 艾莉娅
+#scenes 迷雾森林深处
+#dialogues “别碰那些发光的水晶！它们会吸食你的记忆。”
+#descriptions 巨大的古木遮天蔽日，空气中弥漫着腐烂落叶与潮湿苔藓的气味，远处传来不知名生物的低吼。
+#plots 队伍误入幻境，必须找到森林中心的石碑才能破除迷障。
+#styles 压抑、神秘
+
+#characters 雷恩 & 格鲁特
+#scenes 枯木林边缘的篝火旁
+#dialogues 雷恩：“如果我们天亮前走不出去，补给就断了。” 格鲁特：“那就把那条毒蛇烤了。”
+#descriptions 月光透过稀疏的树冠洒下斑驳的光影，地上的影子随着火焰跳动仿佛活物。
+#plots 两人因路线分歧发生争执，暴露出团队内部的信任危机。
+#styles 紧张、写实
+
+#characters 西尔瓦娜
+#scenes 被诅咒的橡树林
+#dialogues “这片土地死去了，但它的根还在呼吸。”
+#descriptions 树皮上刻满了诡异的符文，每一阵风过，都像是无数人在耳边低语。
+#plots 主角发现森林其实是巨兽的躯体，正在缓慢苏醒。
+#styles 哥特、黑暗
+
+#characters 凯尔 & 小狐狸
+#scenes 樱花森林的溪边
+#dialogues 凯尔：“你也迷路了吗？” 小狐狸：“嗷呜……”（叼起地图跑开）
+#descriptions 粉色的花瓣随风飘落，铺满了清澈见底的溪流，宛如仙境。
+#plots 寻找解药途中偶遇灵兽，开启支线任务。
+#styles 治愈、唯美
+
+#characters 老巫师莫甘
+#scenes 黑森林的废弃祭坛
+#scenes 幽暗密林的大厅
+#dialogues “要想通过这里，必须用你最珍贵的东西交换。”
+#descriptions 祭坛中央悬浮着一颗巨大的黑曜石，映照出每个人内心深处的恐惧。
+#plots 遭遇守门人，面临道德抉择：牺牲伙伴还是放弃任务。
+#styles 史诗、悲壮
+
+#characters 游侠莱戈拉斯
+#scenes 战后焦土森林
+#dialogues “树木在哭泣，它们记得每一个死在这里的人。”
+#descriptions 原本苍翠的林木如今只剩下焦黑的残桩，空气中弥漫着刺鼻的硫磺味。
+#plots 调查敌军动向，发现森林被邪恶力量腐蚀。
+#styles 荒凉、反乌托邦
+
+#characters 双胞胎法师
+#scenes 镜像迷宫森林
+#dialogues 姐姐：“别相信左边的路。” 弟弟：“可左边才是出口啊！”
+#descriptions 周围的景物不断重复，脚下的路径在身后自动闭合，空间逻辑完全混乱。
+#plots 破解空间魔法，寻找打破循环的方法。
+#styles 烧脑、奇幻
+
+#characters 野蛮人乌尔
+#scenes 红杉林高地
+#dialogues “树再高，也挡不住我的战斧！”
+#descriptions 百米高的红杉直插云霄，站在树顶可以俯瞰整片大陆的轮廓。
+#plots 攀爬世界树，挑战居住在树冠层的飞龙。
+#styles 豪迈、热血
+
+#characters 盲眼少女
+#scenes 荧光蘑菇林
+#dialogues “我能听见颜色的声音，这片林子是紫色的，很危险。”
+#descriptions 奇异的蘑菇散发着幽幽蓝光，照亮了地下溶洞般的奇异生态。
+#plots 依靠非视觉感官感知世界，带领队伍避开致命陷阱。
+#styles 独特视角、惊悚

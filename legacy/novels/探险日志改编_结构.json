@@ -1,0 +1,94 @@
+{
+  "title": "探险日志改编",
+  "author": "AI Storyteller",
+  "genre": "adventure",
+  "word_count": 4156,
+  "setting": {
+    "era": "平行世界",
+    "tech_level": "原始",
+    "goal": "寻找宝藏"
+  },
+  "plot_summary": "故事始于主角发现了隐藏多年的家族秘密，发生在古墓迷宫。",
+  "characters": [
+    {
+      "name": "冒险者",
+      "role": "protagonist",
+      "traits": [
+        "浪漫",
+        "幽默",
+        "天真"
+      ],
+      "motivation": "获得力量",
+      "background": "贵族后裔流落民间",
+      "current_emotion": "期待"
+    },
+    {
+      "name": "队友",
+      "role": "supporting",
+      "traits": [
+        "幽默",
+        "勇敢",
+        "谨慎"
+      ],
+      "motivation": "获得自由",
+      "background": "失去记忆的旅人",
+      "current_emotion": "恐惧"
+    },
+    {
+      "name": "夜影",
+      "role": "protagonist",
+      "traits": [
+        "坚强",
+        "幽默",
+        "冷静"
+      ],
+      "motivation": "追求知识",
+      "background": "失去记忆的旅人",
+      "current_emotion": "愧疚"
+    },
+    {
+      "name": "混沌领主",
+      "role": "antagonist",
+      "traits": [
+        "严肃",
+        "脆弱",
+        "务实"
+      ],
+      "motivation": "获得力量",
+      "background": "穿越时空的异乡人",
+      "current_emotion": "悲伤"
+    },
+    {
+      "name": "智者阿尔文",
+      "role": "supporting",
+      "traits": [
+        "坚强",
+        "天真",
+        "脆弱"
+      ],
+      "motivation": "寻找失踪的亲人",
+      "background": "失去记忆的旅人",
+      "current_emotion": "嫉妒"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "第1章 黎明前的黑暗",
+      "summary": "本章包含6个场景，从草原部落到古墓迷宫，主要围绕主角开始追寻真相，但遭遇重重阻碍展开。",
+      "scene_count": 6,
+      "word_count": 1416
+    },
+    {
+      "title": "第2章 真相的碎片",
+      "summary": "本章包含7个场景，从草原部落到古墓迷宫，主要围绕主角开始追寻真相，但遭遇重重阻碍展开。",
+      "scene_count": 7,
+      "word_count": 1360
+    },
+    {
+      "title": "第3章 真相的碎片",
+      "summary": "本章包含7个场景，从古墓迷宫到古墓迷宫，主要围绕主角开始追寻真相，但遭遇重重阻碍展开。",
+      "scene_count": 7,
+      "word_count": 1380
+    }
+  ]
+}

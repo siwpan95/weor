@@ -1,0 +1,791 @@
+{
+  "title": "保存测试",
+  "author": "weor engine",
+  "genre": "adventure",
+  "word_count": 4017,
+  "engine": "offline",
+  "setting": {
+    "era": "未知时空",
+    "tech_level": "星际文明",
+    "goal": "复仇"
+  },
+  "plot_summary": "故事始于一个远古预言开始应验，发生在太空站。",
+  "characters": [
+    {
+      "name": "星痕",
+      "role": "protagonist",
+      "traits": [
+        "狡猾",
+        "聪明",
+        "谨慎"
+      ],
+      "motivation": "获得力量",
+      "background": "身怀绝技的隐士",
+      "current_emotion": "期待"
+    },
+    {
+      "name": "混沌领主",
+      "role": "antagonist",
+      "traits": [
+        "乐观",
+        "务实",
+        "忠诚"
+      ],
+      "motivation": "获得力量",
+      "background": "寻求救赎的罪人",
+      "current_emotion": "骄傲"
+    },
+    {
+      "name": "月儿",
+      "role": "supporting",
+      "traits": [
+        "坚强",
+        "冷静",
+        "冲动"
+      ],
+      "motivation": "找到真相",
+      "background": "贵族后裔流落民间",
+      "current_emotion": "绝望"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第1章 抉择时刻",
+      "scenes": [
+        {
+          "location": "太空站",
+          "time": "上午",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "欺骗",
+          "description": "在太空站，上午的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 7
+        },
+        {
+          "location": "太空站",
+          "time": "上午",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "穿越",
+          "description": "在太空站，上午的阳光投下长长的影子。",
+          "emotional_tone": "期待",
+          "conflict_level": 7
+        },
+        {
+          "location": "太空站",
+          "time": "夜晚",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "追逐",
+          "description": "太空站在夜晚显得格外喧嚣。",
+          "emotional_tone": "震惊",
+          "conflict_level": 7
+        },
+        {
+          "location": "火山口",
+          "time": "黄昏",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "挖掘",
+          "description": "黄昏的火山口，雷暴笼罩着这片土地。",
+          "emotional_tone": "愤怒",
+          "conflict_level": 3
+        },
+        {
+          "location": "火山口",
+          "time": "深夜",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "大笑",
+          "description": "这是一个深夜，火山口中弥漫着紧张的气氛。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "火山口",
+          "time": "清晨",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "道歉",
+          "description": "火山口在清晨显得格外神秘。",
+          "emotional_tone": "愤怒",
+          "conflict_level": 3
+        },
+        {
+          "location": "海底遗迹",
+          "time": "深夜",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "道歉",
+          "description": "在海底遗迹，深夜的阳光投下长长的影子。",
+          "emotional_tone": "焦虑",
+          "conflict_level": 3
+        }
+      ],
+      "summary": "本章包含7个场景，从太空站到海底遗迹，主要围绕一个远古预言开始应验展开。",
+      "word_count": 1222
+    },
+    {
+      "number": 2,
+      "title": "第2章 终章序曲",
+      "scenes": [
+        {
+          "location": "太空站",
+          "time": "下午",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "追踪",
+          "description": "在太空站，下午的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 7
+        },
+        {
+          "location": "太空站",
+          "time": "午夜",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "潜入",
+          "description": "在太空站，午夜的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 7
+        },
+        {
+          "location": "太空站",
+          "time": "黄昏",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "逃离",
+          "description": "在太空站，黄昏的阳光投下长长的影子。",
+          "emotional_tone": "震惊",
+          "conflict_level": 7
+        },
+        {
+          "location": "火山口",
+          "time": "中午",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "撤退",
+          "description": "火山口在中午显得格外喧嚣。",
+          "emotional_tone": "决心",
+          "conflict_level": 3
+        },
+        {
+          "location": "火山口",
+          "time": "黎明前",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "追逐",
+          "description": "这是一个黎明前，火山口中弥漫着紧张的气氛。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "火山口",
+          "time": "中午",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "质问",
+          "description": "这是一个中午，火山口中弥漫着悲伤的气氛。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "海底遗迹",
+          "time": "上午",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "劝告",
+          "description": "在海底遗迹，上午的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "海底遗迹",
+          "time": "午夜",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "对峙",
+          "description": "在海底遗迹，午夜的阳光投下长长的影子。",
+          "emotional_tone": "决心",
+          "conflict_level": 3
+        }
+      ],
+      "summary": "本章包含8个场景，从太空站到海底遗迹，主要围绕一个远古预言开始应验展开。",
+      "word_count": 1549
+    },
+    {
+      "number": 3,
+      "title": "第3章 终章序曲",
+      "scenes": [
+        {
+          "location": "火山口",
+          "time": "夜晚",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "欺骗",
+          "description": "火山口在夜晚显得格外神秘。",
+          "emotional_tone": "决心",
+          "conflict_level": 3
+        },
+        {
+          "location": "火山口",
+          "time": "下午",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "欺骗",
+          "description": "火山口在下午显得格外神秘。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "海底遗迹",
+          "time": "黄昏",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "大笑",
+          "description": "海底遗迹在黄昏显得格外危险。",
+          "emotional_tone": "决心",
+          "conflict_level": 3
+        },
+        {
+          "location": "海底遗迹",
+          "time": "黎明前",
+          "characters": [
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            },
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            }
+          ],
+          "action": "交谈",
+          "description": "黎明前的海底遗迹，大雾笼罩着这片土地。",
+          "emotional_tone": "紧张",
+          "conflict_level": 3
+        },
+        {
+          "location": "太空站",
+          "time": "下午",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "鼓励",
+          "description": "在太空站，下午的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 7
+        },
+        {
+          "location": "太空站",
+          "time": "午夜",
+          "characters": [
+            {
+              "name": "月儿",
+              "role": "supporting",
+              "traits": [
+                "坚强",
+                "冷静",
+                "冲动"
+              ],
+              "motivation": "找到真相",
+              "background": "贵族后裔流落民间",
+              "current_emotion": "绝望"
+            },
+            {
+              "name": "星痕",
+              "role": "protagonist",
+              "traits": [
+                "狡猾",
+                "聪明",
+                "谨慎"
+              ],
+              "motivation": "获得力量",
+              "background": "身怀绝技的隐士",
+              "current_emotion": "期待"
+            }
+          ],
+          "action": "质问",
+          "description": "在太空站，午夜的阳光投下长长的影子。",
+          "emotional_tone": "紧张",
+          "conflict_level": 7
+        }
+      ],
+      "summary": "本章包含6个场景，从火山口到太空站，主要围绕盟友的背叛让主角陷入危机展开。",
+      "word_count": 1246
+    }
+  ]
+}

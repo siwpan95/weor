@@ -1,0 +1,32 @@
+{
+  "title": "示例小说_20260513_015055",
+  "genre": "fantasy",
+  "style": "modern",
+  "total_chapters": 3,
+  "total_words": 492,
+  "chapters_summary": [
+    {
+      "number": 1,
+      "title": "第1章 平凡世界",
+      "theme": "发现",
+      "word_count": 151
+    },
+    {
+      "number": 2,
+      "title": "第2章 冒险召唤",
+      "theme": "冒险",
+      "word_count": 135
+    },
+    {
+      "number": 3,
+      "title": "第3章 拒绝召唤",
+      "theme": "发现",
+      "word_count": 206
+    }
+  ],
+  "characters_count": 9,
+  "locations": [
+    "黑暗森林",
+    "魔法森林"
+  ]
+}

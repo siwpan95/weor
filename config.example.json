@@ -1,0 +1,30 @@
+{
+  "llm": {
+    "api_key": "",
+    "base_url": "https://api.deepseek.com/v1",
+    "model_name": "deepseek-chat",
+    "interface_format": "openai",
+    "temperature": 0.8,
+    "max_tokens": 4096,
+    "timeout": 60
+  },
+  "embedding": {
+    "api_key": "",
+    "base_url": "https://api.deepseek.com/v1",
+    "model_name": "text-embedding-3-small",
+    "interface_format": "openai",
+    "retrieval_k": 5
+  },
+  "novel": {
+    "topic": "一场改变命运的冒险",
+    "genre": "adventure",
+    "num_chapters": 8,
+    "words_per_chapter": 1500,
+    "style": "modern"
+  },
+  "paths": {
+    "data_dir": "data",
+    "output_dir": "output",
+    "library_db": "data/library.db"
+  }
+}

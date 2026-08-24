@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "char_antagonist_da88d271",
+    "content": "冥痕",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 4,
+    "created_at": "2026-05-13T01:51:26.670558",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_9466560d",
+    "content": "墨魂",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 3,
+    "created_at": "2026-05-13T01:51:26.717187",
+    "metadata": {}
+  },
+  {
+    "id": "plot_hero_journey",
+    "content": "英雄之旅",
+    "category": "hero_journey",
+    "content_type": "plots",
+    "tags": [
+      "经典",
+      "成长",
+      "冒险"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:17.734076",
+    "metadata": {}
+  },
+  {
+    "id": "scene_mountain_294b175b",
+    "content": "悬崖边",
+    "category": "mountain",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "mountain"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.680955",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_e5301e78",
+    "content": "风魂",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.694845",
+    "metadata": {}
+  },
+  {
+    "id": "char_supporting_2d3d84d3",
+    "content": "青影",
+    "category": "supporting",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "supporting"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.698095",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_5683da84",
+    "content": "夜魂",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.720517",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_0bb46782",
+    "content": "邪尘",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.783133",
+    "metadata": {}
+  },
+  {
+    "id": "desc_氛围_80a89e10",
+    "content": "这里如同仙境般壮丽。",
+    "category": "氛围",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 2,
+    "created_at": "2026-05-13T01:51:26.806877",
+    "metadata": {}
+  },
+  {
+    "id": "scene_forest_001",
+    "content": "神秘森林",
+    "category": "forest",
+    "content_type": "scenes",
+    "tags": [
+      "神秘",
+      "危险",
+      "美丽"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:17.734067",
+    "metadata": {}
+  },
+  {
+    "id": "style_classic_001",
+    "content": "古典文学风格",
+    "category": "classic",
+    "content_type": "styles",
+    "tags": [
+      "典雅",
+      "正式",
+      "传统"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:17.734095",
+    "metadata": {}
+  },
+  {
+    "id": "scene_dungeon_8612b471",
+    "content": "黑暗森林",
+    "category": "dungeon",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "dungeon"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.658247",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_b90c7548",
+    "content": "风尘",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.661482",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_54c6d9e2",
+    "content": "冥魂",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.665140",
+    "metadata": {}
+  },
+  {
+    "id": "desc_氛围_dfb17319",
+    "content": "这里如同梦境般神秘。",
+    "category": "氛围",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.674609",
+    "metadata": {}
+  },
+  {
+    "id": "desc_环境_e902f601",
+    "content": "这是一个典型的环境场景。",
+    "category": "环境",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.706310",
+    "metadata": {}
+  },
+  {
+    "id": "scene_forest_75091bfc",
+    "content": "古老森林",
+    "category": "forest",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "forest"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.711739",
+    "metadata": {}
+  },
+  {
+    "id": "desc_环境_fa565108",
+    "content": "站在这里，仿佛能感受到空间的广阔。",
+    "category": "环境",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.732646",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_e5784601",
+    "content": "雪翼",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.746228",
+    "metadata": {}
+  },
+  {
+    "id": "char_supporting_e742ed48",
+    "content": "青羽",
+    "category": "supporting",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "supporting"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.751612",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_1c740f0f",
+    "content": "夜痕",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.788433",
+    "metadata": {}
+  },
+  {
+    "id": "desc_火山口_5325be53",
+    "content": "这里如同梦境般美丽。",
+    "category": "火山口",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:51:26.791836",
+    "metadata": {}
+  },
+  {
+    "id": "scene_dungeon_b9eeaa70",
+    "content": "迷雾森林",
+    "category": "dungeon",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "dungeon"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.002155",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_aac3338f",
+    "content": "雪云",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.007829",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_ea2d65f0",
+    "content": "魔翼",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.013936",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_f678b9d2",
+    "content": "云羽",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.044668",
+    "metadata": {}
+  },
+  {
+    "id": "desc_雪山之巅_e9ebd6a7",
+    "content": "这是一个典型的雪山之巅场景。",
+    "category": "雪山之巅",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.053690",
+    "metadata": {}
+  },
+  {
+    "id": "scene_dungeon_75091bfc",
+    "content": "古老森林",
+    "category": "dungeon",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "dungeon"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.065058",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_21c8bed3",
+    "content": "云云",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.070609",
+    "metadata": {}
+  },
+  {
+    "id": "desc_云云_80a89e10",
+    "content": "这里如同仙境般壮丽。",
+    "category": "云云",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.090924",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_90a2292c",
+    "content": "墨尘",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.113388",
+    "metadata": {}
+  },
+  {
+    "id": "desc_林云_5325be53",
+    "content": "这里如同梦境般美丽。",
+    "category": "林云",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 1,
+    "created_at": "2026-05-13T01:52:02.122827",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_093d372c",
+    "content": "取而代之的，是一片森林",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:45:48.623393",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_0a3ffad2",
+    "content": "钢铁的森林",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:45:48.626891",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6fd2b6ab",
+    "content": "暗红色的荆棘，粗大如古树，纠缠如噩梦，刺向铅灰色的天空",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:45:48.629562",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_367dedd1",
+    "content": "它们是我，是阿斯特里恩，是塔尔森，是所有没能离开的僧侣，也是那些银色存在",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:45:48.631944",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c4268bca",
+    "content": "我们全部熔铸在一起，成了一个活着的封印，一个自我维持的痛苦循环场",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:45:48.634309",
+    "metadata": {}
+  },
+  {
+    "id": "char_hero_001",
+    "content": "勇敢的冒险者",
+    "category": "hero",
+    "content_type": "characters",
+    "tags": [
+      "勇敢",
+      "正义",
+      "成长"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734036",
+    "metadata": {}
+  },
+  {
+    "id": "char_villain_001",
+    "content": "黑暗领主",
+    "category": "villain",
+    "content_type": "characters",
+    "tags": [
+      "邪恶",
+      "强大",
+      "复杂"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734057",
+    "metadata": {}
+  },
+  {
+    "id": "char_mentor_001",
+    "content": "智慧长者",
+    "category": "mentor",
+    "content_type": "characters",
+    "tags": [
+      "智慧",
+      "神秘",
+      "引导"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734061",
+    "metadata": {}
+  },
+  {
+    "id": "scene_castle_001",
+    "content": "古老城堡",
+    "category": "castle",
+    "content_type": "scenes",
+    "tags": [
+      "古老",
+      "宏伟",
+      "阴森"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734071",
+    "metadata": {}
+  },
+  {
+    "id": "dialogue_confession_001",
+    "content": "我喜欢你，从第一次见面就开始了。",
+    "category": "confession",
+    "content_type": "dialogues",
+    "tags": [
+      "爱情",
+      "告白",
+      "浪漫"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734081",
+    "metadata": {}
+  },
+  {
+    "id": "dialogue_argument_001",
+    "content": "你根本不明白！你从来都不理解我！",
+    "category": "argument",
+    "content_type": "dialogues",
+    "tags": [
+      "冲突",
+      "愤怒",
+      "误解"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734084",
+    "metadata": {}
+  },
+  {
+    "id": "desc_sunset_001",
+    "content": "夕阳如血，染红了半边天空，云彩被镶上了金边。",
+    "category": "sunset",
+    "content_type": "descriptions",
+    "tags": [
+      "美丽",
+      "黄昏",
+      "自然"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734087",
+    "metadata": {}
+  },
+  {
+    "id": "desc_rain_001",
+    "content": "雨滴敲打着窗户，发出清脆的声响，空气中弥漫着泥土的芬芳。",
+    "category": "rain",
+    "content_type": "descriptions",
+    "tags": [
+      "雨天",
+      "氛围",
+      "自然"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734089",
+    "metadata": {}
+  },
+  {
+    "id": "style_modern_001",
+    "content": "现代网络文学风格",
+    "category": "modern",
+    "content_type": "styles",
+    "tags": [
+      "流畅",
+      "口语化",
+      "快节奏"
+    ],
+    "source": "default",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:17.734098",
+    "metadata": {}
+  },
+  {
+    "id": "desc_风尘_fa565108",
+    "content": "站在这里，仿佛能感受到空间的广阔。",
+    "category": "风尘",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.677458",
+    "metadata": {}
+  },
+  {
+    "id": "desc_墨魂_fa565108",
+    "content": "站在这里，仿佛能感受到空间的广阔。",
+    "category": "墨魂",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.724513",
+    "metadata": {}
+  },
+  {
+    "id": "desc_古老森林_dfb17319",
+    "content": "这里如同梦境般神秘。",
+    "category": "古老森林",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.727408",
+    "metadata": {}
+  },
+  {
+    "id": "scene_city_90498526",
+    "content": "繁华都市",
+    "category": "city",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "city"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.740725",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_4a97e5eb",
+    "content": "幽云",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.757049",
+    "metadata": {}
+  },
+  {
+    "id": "desc_繁华都市_91338e12",
+    "content": "站在这里，仿佛能感受到自然的呼吸。",
+    "category": "繁华都市",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.761377",
+    "metadata": {}
+  },
+  {
+    "id": "scene_mountain_c893d1f8",
+    "content": "火山口",
+    "category": "mountain",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "mountain"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.771729",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_e86a02c4",
+    "content": "星翼",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.777504",
+    "metadata": {}
+  },
+  {
+    "id": "desc_火山口_34471650",
+    "content": "火山口的布局和氛围都很符合预期。",
+    "category": "火山口",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.796749",
+    "metadata": {}
+  },
+  {
+    "id": "desc_环境_585b2d12",
+    "content": "环境的布局和氛围都很符合预期。",
+    "category": "环境",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:26.801675",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_26f007b3",
+    "content": "它压在我的胸膛上，像一块冷却的铁砧",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.979733",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_f3ff1971",
+    "content": "我盘腿坐在“初啼洞穴”深处，这里是苦痛学派一切开始的地方",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.983584",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_98b55b1c",
+    "content": "岩壁上，初代导师奎里安大师刻下的誓言在苔藓下隐约可见：“勿塞耳以避警钟……”我的铁荆棘束衣紧贴着皮肤，九百七十三根细刺——我数过——轻轻地抵着，不刺入，只是存在",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.986308",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6c0bc487",
+    "content": "这是塔尔森大师教我的第一课：在痛楚来临前，先熟悉它的可能",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.989141",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5de51118",
+    "content": "断齿山脉的冬天总是来得早，去得晚",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.992030",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_22528928",
+    "content": "我能“听”到雪花落在洞口铁荆棘上的声音，不是声音，是触感通过地脉传来的微弱震颤",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.994682",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_1af83ca6",
+    "content": "束衣将那些震动放大，传进我的脊椎",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.997156",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_592892fb",
+    "content": "我是维瑞恩·碎石，苦痛学派的第七代弟子，也是最后的记录者之一",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:47.999728",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d6df0763",
+    "content": "”\n\n塔尔森大师的声音从洞口传来，平稳如磐石",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.002436",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e62b1659",
+    "content": "这位来自落锤的剑士背脊挺直，尽管旧伤让他无法再挥剑，却给了他另一种姿态——一种承受重压而不弯折的姿态",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.005106",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2c9e6608",
+    "content": "在静修所，形式上的礼节让位于内心的专注",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.007729",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_570185a4",
+    "content": "他在我对面坐下，卸下自己的束衣护腕，露出小臂",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.010316",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_4985cc48",
+    "content": "上面布满白色的细密疤痕，像一张古老的地图",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.012841",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_758c79e3",
+    "content": "“阿斯特里恩今晚要演示他的新晶石",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.015399",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_192e3b3d",
+    "content": "”\n\n我感觉到自己的胃收紧",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.018079",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a59e77ab",
+    "content": "不是恐惧，是某种更复杂的东西",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.020755",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a3a4d464",
+    "content": "只有雪声，还有我们两人束衣下心跳的微鸣",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.023706",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_89f2cbbe",
+    "content": "”塔尔森看向岩壁上的刻字，“奎里安大师被法师公会驱逐，不是因为他发现了痛苦的力量，而是因为他想理解痛苦的语言",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.026426",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_46694851",
+    "content": "阿斯特里恩，那个来自风盔城的贵族之子，他的眼睛里总是燃烧着某种我们其他人没有的火",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.028987",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c8bfe6b1",
+    "content": "那不是领悟的清明之光，那是渴求的火焰",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.031613",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_210fd48f",
+    "content": "”\n\n塔尔森沉默了很长时间",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.034603",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_47292e8d",
+    "content": "或者两边都是错的",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.037203",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d00668f8",
+    "content": "但维瑞恩，真正的理解，始于承认无知",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.039690",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_735695c3",
+    "content": "”\n\n那天傍晚，我们穿过静修所的低矮石廊，前往中央庭院",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.042201",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_40fa455e",
+    "content": "雪已经停了，月光照在覆雪的屋脊和那些刻意保留的野生铁荆棘丛上，给一切染上清冷的蓝色",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.044759",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c3ea40eb",
+    "content": "其他僧侣已聚集在此，约莫十几人，都是灰袍束衣，在雪地上站成半圆",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.047227",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_3ff8beac",
+    "content": "他比塔尔森年轻十岁，金发在脑后扎成诺德战士式的辫子，但脸上没有战士的粗犷，只有学者般的锐利",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.050002",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d840ffc0",
+    "content": "他手中托着一件东西——那是“痛苦回响手甲”的第三版",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.052883",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_197a3d5e",
+    "content": "即使隔着一段距离，我也能看到手甲关节处嵌入的三颗新宝石，它们即使在月光下也泛着不祥的暗红色光晕，像凝固的血",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.055361",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_7fcd17c4",
+    "content": "充能宝石效率低下，因为它试图容纳的是纯粹能量",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.058001",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8bd923d9",
+    "content": "这些宝石内核混入了迪德拉之尘——别那样看我，塔尔森，只是微量——它们能更好地保持痛苦信息的‘形状’",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.060754",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8bdba262",
+    "content": "现在，一次标准的刺痛充能，可以储存更久，释放更精准",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.063414",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5a6aa0e4",
+    "content": "”\n\n保守派的女僧侣维雷娜开口，她的声音总是很轻，但所有人都听：“代价呢，阿斯特里恩",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.066094",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_391d083b",
+    "content": "”阿斯特里恩打断她，语气冷了一度，“他渴望回响本身，而不是回响带来的力量",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.069017",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2d2998fa",
+    "content": "”他环视众人，“今晚，我将演示的不是力量的大小，而是精度",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.071433",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c2ea0688",
+    "content": "骨刺扣入皮肉的细微声音让我牙酸",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.073972",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_be843730",
+    "content": "阿斯特里恩面不改色，走到庭院中那个用来测试打击力的花岗岩柱前——柱子上已布满裂痕和凹坑，是历代僧侣留下的印记",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.076565",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_90af4ddc",
+    "content": "我翻开随身携带的皮面笔记本，舔了舔冻僵的铅笔尖",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.079264",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6f208707",
+    "content": "阿斯特里恩没有摆出任何花哨的架势",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.081887",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8f549521",
+    "content": "血珠渗出来，很少",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.084394",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_4684ac99",
+    "content": "但他闭上眼睛，脸上掠过一丝几乎无法察觉的痉挛",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.086979",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5cdbd85f",
+    "content": "手甲上的宝石亮了起来",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.089497",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5a77786e",
+    "content": "不是猛然爆发，而是一种缓慢的、脉动的暗红色，像一颗邪恶的心脏在铁与皮革下苏醒",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.092071",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_4417fb0c",
+    "content": "声音很奇怪——不是石头碎裂的巨响，而是一种低沉的、仿佛从大地深处传来的嗡鸣",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.095034",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a6462348",
+    "content": "石柱表面，以他的拳面为中心，蛛网般的裂纹无声地蔓延开来，覆盖了之前所有的痕迹",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.098003",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_05959187",
+    "content": "裂纹精确地形成一个直径两尺的圆，圆内的石质化为齑粉，簌簌落下，露出一个光滑的凹洞",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.100785",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_196a8367",
+    "content": "圆外的石柱完好无损",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.103685",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_83a7aaad",
+    "content": "绝对的精度",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.106763",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_af80b06f",
+    "content": "他转过身，宝石的光芒正迅速暗淡",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.109529",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e66984d4",
+    "content": "我能听到其他人束衣下加快的心跳",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.112239",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_0eed4035",
+    "content": "这一拳的力量并不比学派最强一击更甚，但它的控制力令人心悸",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.114951",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5523249c",
+    "content": "这意味着，同样的痛苦，现在可以转化成更多、更致命的伤害",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.117569",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_bd77a650",
+    "content": "刚才被指甲划过的地方，皮肤下出现了细密的黑色纹路，像蛛网，又像……裂痕",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.120198",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_79adafb9",
+    "content": "那些纹路正在缓慢消退，但很慢",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.122707",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_bb06f21c",
+    "content": "“暂时的神经敏化",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.125175",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_1c87fc95",
+    "content": "”他笑了笑，那笑容没有到达眼睛，“很好的副作用，不是吗",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.127919",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2ad5e60d",
+    "content": "更敏锐的感知",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.131226",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_55cb28cb",
+    "content": "”\n\n“你需要别人帮你缓解释放后的空虚",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.134340",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_282f2ab1",
+    "content": "他曾是耐斯丁的弟子",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.136908",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6e060ed4",
+    "content": "“暂时的需求",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.139463",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_dc7e1591",
+    "content": "阿斯特里恩的笑容消失了",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.142256",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5e1333d3",
+    "content": "两人对视着，一个如古井，一个如即将沸腾的水",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.144945",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e40befcd",
+    "content": "“束衣是我们的一部分，大师",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.147547",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_aec9894b",
+    "content": "”塔尔森站起身，他的身形在月光下显得格外高大，“科维尔撞墙，不是因为他软弱",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.150113",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c1dd26ca",
+    "content": "是因为束衣已经长进了他的颅骨，他分不清哪里的痛是自己的，哪里的痛是铁荆棘传来的回响",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.152729",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_23a6f8a1",
+    "content": "我们的心还是血肉，会渴，会贪，会迷失",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.155152",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2bd9ff80",
+    "content": "”阿斯特里恩的声音提高了，“因为可能迷路，就永远站在起点",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.157830",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d9226b2b",
+    "content": "塔尔森，学派一百年了，我们还在用奎里安大师的基础训练法",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.160524",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_287e6e15",
+    "content": "法师公会造出了能飞的城市",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.163037",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_65823e22",
+    "content": "”\n\n“如果数清自己的刺，能让你明白为什么会有刺，那比盲目挥舞一万把剑更有价值",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.165568",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_649a8d4b",
+    "content": "你房间正下方的封口，温度在异常上升",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.168035",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_739ec678",
+    "content": "”\n\n阿斯特里恩站在原地，拳头握紧，手甲上的宝石残光映在他眼中，像两点余烬",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.170598",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_fef31e89",
+    "content": "懂得害怕，是活着的证明",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.173331",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8cb43e9a",
+    "content": "阿斯特里恩仍站在那里，看着石柱上那个完美的圆洞",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.175906",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_dc8002b8",
+    "content": "第二章：裂隙之下\n\n塔尔森的命令只平静了两天",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.178669",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2da865f8",
+    "content": "第三天夜里，我被地面的震动惊醒",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.181331",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c66f441b",
+    "content": "不是地震那种剧烈的摇晃，而是持续的、低频率的震颤，像有什么巨大的东西在地下翻身",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.183928",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_31a5823c",
+    "content": "我的束衣在发烫——不是物理的热度，是那种神经性的灼烧感，意味着它在接收强烈到溢出的痛苦信号",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.186566",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_9f7ccf90",
+    "content": "静修所的石廊里，其他僧侣也陆续出现，面色惶惑",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:51:48.189097",
+    "metadata": {}
+  },
+  {
+    "id": "char_supporting_66efcaba",
+    "content": "水云",
+    "category": "supporting",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "supporting"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.019255",
+    "metadata": {}
+  },
+  {
+    "id": "desc_雪云_80a89e10",
+    "content": "这里如同仙境般壮丽。",
+    "category": "雪云",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.028001",
+    "metadata": {}
+  },
+  {
+    "id": "scene_mountain_8209e1c2",
+    "content": "雪山之巅",
+    "category": "mountain",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "mountain"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.033686",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_2aa3e916",
+    "content": "墨翼",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.039107",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_a1fa04de",
+    "content": "暗羽",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.049968",
+    "metadata": {}
+  },
+  {
+    "id": "desc_雪山之巅_8ee1b651",
+    "content": "雪山之巅的布局和氛围都很符合预期。",
+    "category": "雪山之巅",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.059056",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_e2343eea",
+    "content": "林翼",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.076501",
+    "metadata": {}
+  },
+  {
+    "id": "char_supporting_08c0bf27",
+    "content": "木翼",
+    "category": "supporting",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "supporting"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.081977",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_4ac0c6af",
+    "content": "邪风",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.087433",
+    "metadata": {}
+  },
+  {
+    "id": "desc_云云_5416e1a8",
+    "content": "这是一个典型的云云场景。",
+    "category": "云云",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.096513",
+    "metadata": {}
+  },
+  {
+    "id": "scene_forest_8612b471",
+    "content": "黑暗森林",
+    "category": "forest",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "forest"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.102047",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_d4c50c44",
+    "content": "林云",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.107692",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_2deb98af",
+    "content": "血影",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.118911",
+    "metadata": {}
+  },
+  {
+    "id": "desc_环境_5325be53",
+    "content": "这里如同梦境般美丽。",
+    "category": "环境",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.133222",
+    "metadata": {}
+  },
+  {
+    "id": "desc_林云_80a89e10",
+    "content": "这里如同仙境般壮丽。",
+    "category": "林云",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.138405",
+    "metadata": {}
+  },
+  {
+    "id": "scene_dungeon_a10c81ed",
+    "content": "魔法森林",
+    "category": "dungeon",
+    "content_type": "scenes",
+    "tags": [
+      "generated",
+      "dungeon"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.143845",
+    "metadata": {}
+  },
+  {
+    "id": "char_protagonist_fabef679",
+    "content": "风翼",
+    "category": "protagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "protagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.149392",
+    "metadata": {}
+  },
+  {
+    "id": "char_antagonist_1d61fb64",
+    "content": "幽羽",
+    "category": "antagonist",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "antagonist"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.155081",
+    "metadata": {}
+  },
+  {
+    "id": "char_neutral_c6ac00ea",
+    "content": "夜翼",
+    "category": "neutral",
+    "content_type": "characters",
+    "tags": [
+      "generated",
+      "neutral"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.160562",
+    "metadata": {}
+  },
+  {
+    "id": "desc_氛围_83080217",
+    "content": "氛围的布局和氛围都很符合预期。",
+    "category": "氛围",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.165984",
+    "metadata": {}
+  },
+  {
+    "id": "desc_魔法森林_997aca79",
+    "content": "魔法森林的布局和氛围都很符合预期。",
+    "category": "魔法森林",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "realistic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.168744",
+    "metadata": {}
+  },
+  {
+    "id": "desc_风翼_5d029958",
+    "content": "站在这里，仿佛能感受到时间的流逝。",
+    "category": "风翼",
+    "content_type": "descriptions",
+    "tags": [
+      "generated",
+      "场景",
+      "poetic"
+    ],
+    "source": "generated",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:52:02.171803",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_341ce745",
+    "content": "第一卷 内森·温特斯\n第零集 内森·温特斯\n　　关于内森·温特斯，有一件事你必须理解：他不是一个会主动寻找麻烦的人",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.048573",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5da16c40",
+    "content": "麻烦总是像一只嗅到腐肉气味的野狗一样，自己找上门来",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.052191",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_ba543243",
+    "content": "他曾经试图分析过这种现象，试图找出自己的行为模式中有什么地方像是竖着一块写着“请在此处丢弃超自然事件”的招牌",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.054926",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6e80ba2d",
+    "content": "就像那些漫步者在黑暗中沿着路肩行走一样，它们沿着某种看不见的轨迹，一步步地接近他，从不偏离",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.057352",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_fd30d857",
+    "content": "他曾经在深夜的卡车里计算过——不算那些模糊的、可能是梦的东西，不算那些他喝醉了之后无法确定的记忆——他已经经历了至少六件无法用常识解释的事情",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.059742",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_373c2813",
+    "content": "但真正的开始，也许是更早的时候",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.062249",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e678dc34",
+    "content": "那是他第一次意识到，自己的决定会让别人付出代价",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.064627",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d1ce927f",
+    "content": "而在那之后的许多年里，内森自己也开始留下疤痕——不是皮肤上的，而是记忆里的",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.067093",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c88ead45",
+    "content": "他在爱丁堡大学读生物化学的那段时间，是他试图用科学来解释一切的时期",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.069618",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_0e059fe1",
+    "content": "他相信世界上所有的事情都可以被分解成化学反应、物理定律和统计概率",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.072169",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_36fdcdc3",
+    "content": "他相信那些无法解释的东西只是因为人类的知识还不够完备，而不是因为它们本质上就是不可知的",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.074512",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_418a3782",
+    "content": "他选择住在校外，住在那个爬满常春藤的灰白色公寓里，每天透过窗户看着亚瑟王座——那座死火山——在晨雾中矗立，像是某种沉睡的警告",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.076834",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d358f1ad",
+    "content": "他忙着成为人群中年纪最大的那个学生，忙着和研究生和讲师混在一起，忙着吸收那些他认为真正有价值的知识",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.079192",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_fdc35f7a",
+    "content": "那一年的休学期——他独自背包去了东南亚——也许是他人生中最接近“正常”的一段时间",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.081569",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_989b4816",
+    "content": "在柬埔寨的丛林里，他学会了如何在不踩到地雷的情况下行走",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.084463",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_df514b9a",
+    "content": "在印度的火车上，他学会了如何在混乱中找到秩序",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.086809",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_d0d0ab31",
+    "content": "在尼泊尔的雪山下，他抽着当地的手卷烟，看着那些仿佛可以触摸到的星星，第一次感到自己在这个宇宙中是多么渺小",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.089138",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_dca0b3c8",
+    "content": "那种感觉本该让他谦卑，但在当时的他看来，那更像是一种解放",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.091562",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_bbfdf70d",
+    "content": "关于阿姆斯特丹的那个晚上，内森后来反复思考过很多次",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.093900",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8fd3da91",
+    "content": "他觉得那更像是一种测试，而他没有通过",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.096264",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_31508787",
+    "content": "他的生活会像普通人一样——上班，结婚，生子，变老，然后死去——而不会经历之后所有那些事吗",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.098790",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_0ed65d45",
+    "content": "也许约翰手中有一份名单，而他的名字早已被写在上面，不管他当晚做什么都无法改变",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.101316",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_404f9665",
+    "content": "那个信封里的一万英镑，像一种缓慢发作的毒药，在他的生活中扩散开来",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.103774",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a809295c",
+    "content": "他用它租了伯恩茅斯的那间公寓，于是就有了那口棺材",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.106047",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_5bc4d455",
+    "content": "棺材里有东西会刮蹭盖子，会在下雨时发出像歌声一样的呻吟，会在他睡着时诱惑他拿起钥匙",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.108396",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_6c3c5034",
+    "content": "他坚持了一年半没有打开它，把钥匙冻在冰块里，在梦游中一次次被冻醒，这可能是他这辈子做过的最明智的决定之一",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.110940",
+    "metadata": {}
+  },
+  {
+    "id": "learned_char_6a1aee82",
+    "content": "无名角色",
+    "category": "manual",
+    "content_type": "characters",
+    "tags": [
+      "learned",
+      "character"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.113700",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e9cd34d3",
+    "content": "内森后来逐渐明白，他和约翰之间的交易不是一次性的",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.116327",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8265036b",
+    "content": "那是一个开头，而他被纳入了一个网络——一个由奇怪事件、特殊物件和知情者构成的网络",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.118780",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c3e50216",
+    "content": "在这个网络中，信息以某种隐秘的方式流动，而内森，不管愿不愿意，已经成了一个节点",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.121131",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e9f1d9a3",
+    "content": "这就是为什么格雷厄姆会出现在他的生活中",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.123519",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_537bff79",
+    "content": "他一开始以为那只是巧合——他们选了同一门犯罪学夜大课程，住在同一条街上，在夜晚的公交车上偶然相遇",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.125895",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_b3f316b2",
+    "content": "格雷厄姆父母的车祸，他继承的遗产，他那种“无所事事的生活”，都是某种更大图案的一部分",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.128418",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c6ce38f7",
+    "content": "内森一直没能拼出那个图案的全貌，但他看到了足够多的碎片",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.130985",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_fa1dd102",
+    "content": "他当时以为是受伤导致的错觉，但后来他明白，那和脑震荡无关",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.133498",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e9a5b3f0",
+    "content": "那个公寓里有什么东西，某种和那本书、那些棺材、那些漫步者同源的东西",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.135914",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c551d897",
+    "content": "拉丁文的《Ex Altiora》，“从高处来”或“高不可及之处”",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.138333",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_ceec2565",
+    "content": "他是在诺丁山的一家慈善二手店里发现的，标价四英镑，实际价值可能是几千",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.140738",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_539e30d5",
+    "content": "那些木刻版画中的山峰和夜空，让他产生了那种强烈的坠落感——不是物理上的坠落，而是灵魂上的，像是你站在无尽的深渊边上，看着黑暗中有什么东西在凝视着你",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.143082",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_afa6cb4f",
+    "content": "当时他看到画中出现了李庭博图——高压电流在绝缘材料中分流的图案——和童年朋友迈克尔背上的雷击疤痕一模一样",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.145496",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_544b6ed0",
+    "content": "那一刻他意识到了某种联系，某种跨越时间的对应关系",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.147985",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_bd774fee",
+    "content": "这本书不是什么普通的古董，它是一把钥匙，和伯恩茅斯那口棺材上的铁锁钥匙类似，只是它能打开的不是一扇门，而是你的认知",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.150461",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a4548dad",
+    "content": "玛丽·凯，那个剃光了头发、全身刺青的老妇人，用她的那本梵文书演示了如何让骨头从书中掉落",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.152972",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_316d8a0c",
+    "content": "她的儿子杰洛德，杀了她，剥了她的皮在钓鱼线上晾干，然后用五千英镑从内森手中买走了那本书，当着内森的面把它烧掉了",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.155323",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_123035aa",
+    "content": "”这句话，和他的行动一样，带着一种扭曲的逻辑，一种从内部才能理解的黑暗智慧",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.157605",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_77ed402d",
+    "content": "内森当时没听懂，现在也没完全懂，但他隐隐感觉到，杰洛德做的事——杀死自己的母亲，烧掉一本书——可能是一种纠正，一种防止某种东西扩散到这个世界的方式",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.159882",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_7e416357",
+    "content": "在那之后，内森没有再主动寻找过任何奇怪的东西",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.162325",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8c415996",
+    "content": "他换到了清洁工的工作，试图过一种不需要思考的、体力劳动的生活",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.164730",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_0de2df70",
+    "content": "兰开斯特路93号就是一个活生生的证明",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.167061",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_52328be2",
+    "content": "他从来没有刻意去找那个在夜间放置奇怪垃圾袋的人，他只是一个清洁工，做着本职工作，清理着他该清理的垃圾",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.169386",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a01e149b",
+    "content": "但那些东西——娃娃头，写满主祷文的纸带，数百颗人类的牙齿，以及最后那个用绿色丝带系着的袋子里装着的、刻着艾伦·帕菲特名字的金属心脏——它们还是在路线上等着他",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.171768",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_543ab24a",
+    "content": "而艾伦，因为无法克制自己的好奇心，像一条追着诱饵的鱼一样，被那些东西钓走了",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.174087",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_f3d552fd",
+    "content": "他成了那个被记住的人，就像艾伦成了那个被找到的人",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.176486",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_da7bb5f8",
+    "content": "现在他在温哥华和旧金山之间来回开着拖车，在夜晚行驶，看着那些穿着不同衣服、年龄各异的漫步者沿着路肩行走",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.178831",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_1b00c756",
+    "content": "他不再停车了，不管看到什么——老人、孩子、穿着婚纱的女人、穿着军装的男人——他都不会再停车",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.181184",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_12c09b16",
+    "content": "他学会了抑制住那种想要帮助的本能，因为那条白线不属于他，那些行走的人不属于他，他唯一能做的就是继续向前开，假装没有看到那些从黑暗中投来的目光",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.184153",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_42877d3f",
+    "content": "因为那些东西记住了他——从爱丁堡小巷里悬浮的模糊身影，到阿姆斯特丹的约翰，到伯恩茅斯的棺材，到格雷厄姆的笔记本，到那本书和那个画中的夜空，到兰开斯特路的牙齿和那颗心脏，再到路肩上那些缓缓转头的漫步者",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.186611",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_1388d39c",
+    "content": "所有的一切都在告诉他同一件事：他被卷入了某种东西，而它还没有放过他",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.188936",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_27cc1920",
+    "content": "他想过他是不是做了什么才导致这一切——某个他忘记的仪式，某个他无意中触发的开关，某个他在童年时犯下的错误",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.191388",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_2d52fd60",
+    "content": "也许他天生就是那种容易遇到奇怪事情的体质",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.193719",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_e5dec92a",
+    "content": "但无论原因是什么，结果都是一样的",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.196240",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_cfbdaa4b",
+    "content": "他唯一能做的就是继续前进，把故事写下来放在网上，警告那些可能和他一样的人",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.198645",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_61cddaf4",
+    "content": "也许是《被记住的人》，也许是《路肩上的行走者》，也许是《Ex Altiora——从高处来》",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.201101",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8a91d3c6",
+    "content": "也许有一天，当足够多的印记汇集在一起时，他会看到那个图案的全貌",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.203479",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c3697ec4",
+    "content": "也许到那时，他就会明白这一切的意义",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.205831",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8d58f81b",
+    "content": "他在黑暗中继续开着车，车灯照亮了前方几百英尺的路面",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.208278",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_845c58dc",
+    "content": "路肩上的白线在他的余光中向后流去，像一条无尽的河流",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.210943",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_c5d7a02a",
+    "content": "他没有去看那些可能在阴影中行走的身影",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "场景"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.213499",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8dd84b4c",
+    "content": "他只是在开车，听着引擎的低鸣，感受着方向盘在手中的震动，等待着下一个黎明",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "人物"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.215963",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_8253bde4",
+    "content": "而那些漫步者，总会在黑暗中消失",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.218296",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_b0777219",
+    "content": "直到它们中的某一个，像那个老妇人一样，再次伸出手来",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "物品"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.220764",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_615e5748",
+    "content": "第一集 安康鱼（上）\n　　这是好几年前发生的事了",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.223079",
+    "metadata": {}
+  },
+  {
+    "id": "learned_desc_a0b7c50d",
+    "content": "那时候内森·温特斯还在爱丁堡大学学习生物化学，他经常想起那件事，就像舌头忍不住去舔一颗松动的牙齿",
+    "category": "manual",
+    "content_type": "descriptions",
+    "tags": [
+      "learned",
+      "description",
+      "环境"
+    ],
+    "source": "learned",
+    "weight": 1.0,
+    "usage_count": 0,
+    "created_at": "2026-05-13T01:55:22.225425",
+    "metadata": {}
+  }
+]

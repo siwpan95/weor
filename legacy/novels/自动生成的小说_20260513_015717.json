@@ -1,0 +1,51 @@
+{
+  "title": "自动生成的小说_20260513_015717",
+  "genre": "mystery",
+  "style": "modern",
+  "total_chapters": 5,
+  "total_words": 2414,
+  "chapters_summary": [
+    {
+      "number": 1,
+      "title": "第1章 平凡世界",
+      "theme": "挑战",
+      "word_count": 205
+    },
+    {
+      "number": 2,
+      "title": "第2章 冒险召唤",
+      "theme": "成长",
+      "word_count": 149
+    },
+    {
+      "number": 3,
+      "title": "第3章 拒绝召唤",
+      "theme": "发现",
+      "word_count": 205
+    },
+    {
+      "number": 4,
+      "title": "第4章 遇见导师",
+      "theme": "成长",
+      "word_count": 157
+    },
+    {
+      "number": 5,
+      "title": "第5章 跨越门槛",
+      "theme": "挑战",
+      "word_count": 218
+    }
+  ],
+  "characters_count": 44,
+  "locations": [
+    "繁华都市",
+    "港口城市",
+    "魔法森林",
+    "雪山之巅",
+    "古老森林",
+    "黑暗森林",
+    "火山口",
+    "悬崖边",
+    "迷雾森林"
+  ]
+}
