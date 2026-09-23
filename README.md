@@ -1,6 +1,9 @@
 # weor — AI 小说生成系统
 
-整合自原 `G:\weor` 散落脚本（autodugeon / fast / fast2 / fast3 / fast4 / media），
+> 仓库：<https://gitee.com/siwpan/weor> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+> 注：文中 <PATH> 为路径占位符，请替换为你本机实际的目录 / 可执行文件路径。
+
+整合自原 `<PATH>` 散落脚本（autodugeon / fast / fast2 / fast3 / fast4 / media），
 并按 2025 年主流开源项目（AI_NovelGenerator / GOAT-Storytelling-Agent / Novel-OS）的范式新增：
 **LLM 适配层** + **自上而下生成流水线** + **统一 CLI / GUI / 存储**。
 
@@ -135,7 +138,7 @@ python main.py config llm-status     # LLM 健康检查
 | `content_import_tool.py`（已丢失） | `weor/store/importer.py`（按 wri.txt 格式重建） |
 | `content_library.db` / `novel_library.db` | 统一为 `data/library.db` |
 
-原文件保留在 `G:\weor` 根目录作为参考，未删除。
+原文件保留在 `<PATH>` 根目录作为参考，未删除。
 
 ## 新增能力（相对原项目）
 
