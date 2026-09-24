@@ -1,6 +1,6 @@
 """weor - AI 小说生成系统
 
-整合自原 G:\\weor 散落脚本（autodugeon / fast / fast2 / fast3 / fast4 / media），
+整合自原散落脚本（autodugeon / fast / fast2 / fast3 / fast4 / media；原顶层目录已失效），
 并新增 LLM 适配层与自上而下生成流水线。
 
 分层结构：
