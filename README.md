@@ -5,7 +5,7 @@
 > 本仓在 siwpan 投资组合（D:/projects/repos，共 133 仓）中定级为 **① 核心推进**，领域 **小说/网文**，定位 **本地AI叙事（枢纽）**。
 > **角色**：持续投入：整合多开源范式的 AI 小说生成系统，并入本地AI叙事栈。
 > **维护策略**：① 核心推进——持续投入、不允许冻结；随所属收敛点 / 流水线长期演进。
-> 投资组合统一分级索引：`D:/projects/repos/PORTFOLIO_TIERING.md`。
+> 投资组合统一分级索引（多机可查）：[组合分级决策索引 · allin 事实源](https://gitee.com/siwpan/allin/blob/master/docs/事实源/组合分级决策索引.md)。
 
 > 仓库：<https://gitee.com/siwpan/weor> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
 > 注：文中 <PATH> 为路径占位符，请替换为你本机实际的目录 / 可执行文件路径。
